@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Welcome to Bianyu's Blog</h1>
+    <p class="lead"> This is Bianyu's FIRST C# MVC web application. Welcome to leave your comment.</p>
+    <p>
+        @using (Ajax.BeginForm("Search", null,
+     new AjaxOptions
+     {
+         HttpMethod = "POST",
+         UpdateTargetId = "PostWithComments",
+         InsertionMode = InsertionMode.Replace
+     }, new { id = "searchForm" }))
+        {
+            <input type="text" name="query" placeholder="Live Search"
+                   oninput="$('#searchForm').submit()" />
+            <input type="submit" value="Search By Title"   class="btn btn-primary btn-lg"/> <span style="color:gray">Note: clear the input will return All the posts </span>
+        }
+    </p>
+</div>
+
+
+<div class="row">
+ 
+    <div  class="col-md-12" id="PostWithComments">
+        @Html.Partial("_PostListReadOnly")
+    </div>
+</div>

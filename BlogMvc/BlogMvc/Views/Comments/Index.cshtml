@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BlogMvc.Models.Comment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All the Comments :</h2>
+
+
+
+
+@foreach (var item in Model)
+{
+
+    <div>
+
+        <strong> Comment for:</strong>  @Html.DisplayFor(modelItem => item.Post.Title)
+    </div>
+    <div>
+
+        @Html.DisplayFor(modelItem => item.Content)
+    </div>
+
+    <div style="text-align:right; color:peru ">
+        @Html.DisplayFor(modelItem => item.CreatedOn)   |  Statuts:
+
+        @if (item.IsPublished)
+        {<span style="color:green">  Published</span>}
+        else
+        { <span style="color:red">  Pending... </span>}
+
+        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+
+    </div>
+
+
+
+
+
+}
+<div>
+    @Html.ActionLink("Back to Home", "Index", "Home")
+</div>
+
+

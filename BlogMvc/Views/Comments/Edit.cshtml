@@ -1,0 +1,68 @@
+﻿@model BlogMvc.Models.Comment
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit comment</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+    <div class="form-group">
+        @Html.TextAreaFor(model => model.Content, new { rows = "20", style = "resize:none;width:400px;", placeholder = Html.DisplayNameFor(model => model.Content), @class = "form-control input-lg textarea-editor" })
+        <div class="col-md-10">
+            @Html.TextAreaFor(model => model.Content, new
+                {
+                    rows = "20",
+                    style = "resize:none;width:400px;",
+                    placeholder = Html.DisplayNameFor(model => model.Content),
+                    @class = "form-control input-lg textarea-editor"
+       })
+            @Html.ValidationMessageFor(model => model.Content, "", new { @class = "text-danger" })
+        </div>
+    </div>
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.CreatedOn, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CreatedOn, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.UpdatedOn, new { Value = DateTime.Now })
+                @Html.ValidationMessageFor(model => model.UpdatedOn, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.UseFullName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UseFullName, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.PostId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PostId, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.IsPublished, new { Value = "false" })
+                @Html.ValidationMessageFor(model => model.IsPublished, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.js"></script>
+    @Scripts.Render("~/bundles/Script-custom-editor")
+
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
+
+}

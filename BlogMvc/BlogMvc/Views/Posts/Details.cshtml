@@ -1,0 +1,99 @@
+﻿@model BlogMvc.Models.Post
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.Title</h2>
+
+<div>
+    <h4> @Html.Raw(Model.Content) </h4>
+    <hr />
+
+</div>
+
+@if (Model.Comments.Any())
+{
+    <h5><strong>All Comments( @Model.Comments.Count ):</strong></h5>
+
+    foreach (var comment in Model.Comments)
+    {
+
+        if ((comment.IsPublished) || (User.IsInRole("CanManage")))
+        {
+            <div>
+
+                By @comment.UseFullName :
+            </div>
+            <div style="text-indent:2em">
+                <p>@Html.Raw(comment.Content)</p>
+
+            </div>
+            <div style="text-align:right; color:peru ">
+                On @comment.CreatedOn  &nbsp; &nbsp;
+
+                @if (!comment.IsPublished)
+                {
+
+                    <div style="color:red">
+                        @Html.ActionLink("need approve", "ApproveCommentByAdmin", "Comments", new { Id = comment.Id }, null) |
+                    </div>
+                }
+                else
+                {
+                    if (User.IsInRole("CanManage"))
+                    { <div style="color:green">
+                            approved |
+                        </div>
+
+                    }
+                }
+               @{ if (User.IsInRole("CanManage"))
+                   {  @Html.ActionLink("Delete", "Delete", "Comments", new { Id = comment.Id }, null) 
+                       }
+                   }
+            </div>
+
+        }
+        else
+        {
+            if (!User.IsInRole("CanManage"))
+            { <div style="text-indent:2em">
+                    <p>comment written by @comment.UseFullName is pending......</p>
+
+                </div>
+            }
+           
+        }
+
+    }
+}
+else
+{
+
+
+    <div style="text-indent:2em">
+        <p>No Comments yet</p>
+
+    </div>
+}
+
+
+
+<p>
+    @{ if (User.IsInRole("CanManage"))
+        {
+            @Html.ActionLink("Edit Post", "Edit", new { id = Model.Id }); 
+            
+        }
+      
+
+    <span>  &nbsp; &nbsp; &nbsp; </span>   @Html.ActionLink("Add Comment", "Create", "Comments", new { Id=Model.Id},null);
+
+       
+    }
+    &nbsp;&nbsp;&nbsp;  @Html.ActionLink("Back to Home", "Index", "Home")
+
+
+
+</p>

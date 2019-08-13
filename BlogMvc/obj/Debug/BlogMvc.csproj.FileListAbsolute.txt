@@ -1,0 +1,338 @@
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\BlogMvc.dll.config
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\BlogMvc.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\BlogMvc.pdb
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csc.exe
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csc.exe.config
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csc.rsp
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csi.exe
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csi.exe.config
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\csi.rsp
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.AppContext.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Console.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\vbc.exe
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\vbc.exe.config
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\vbc.rsp
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Antlr3.Runtime.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\EntityFramework.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Newtonsoft.Json.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Owin.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Helpers.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Mvc.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Optimization.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Razor.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\WebGrease.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Helpers.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Mvc.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Optimization.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.Razor.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Newtonsoft.Json.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Antlr3.Runtime.pdb
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\EntityFramework.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csprojAssemblyReference.cache
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CoreCompileInputs.cache
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CopyComplete
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\obj\Debug\BlogMvc.dll
+C:\Users\teacher\source\repos\BlogMvc\BlogMvc\obj\Debug\BlogMvc.pdb
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\BlogMvc.dll.config
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\BlogMvc.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\BlogMvc.pdb
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csc.exe
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csc.exe.config
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csc.rsp
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csi.exe
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csi.exe.config
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\csi.rsp
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.AppContext.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Console.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\vbc.exe
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\vbc.exe.config
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\vbc.rsp
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Antlr3.Runtime.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\EntityFramework.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Newtonsoft.Json.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Owin.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Helpers.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Mvc.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Optimization.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Razor.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\WebGrease.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Helpers.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Mvc.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Optimization.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.Razor.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Newtonsoft.Json.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Antlr3.Runtime.pdb
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\EntityFramework.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CoreCompileInputs.cache
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CopyComplete
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.dll
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.pdb
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.initial.resources
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.GenerateResource.cache
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.AddAdmin.resources
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.AddAdminData.resources
+C:\Users\1896181\Desktop\Test 1\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csprojAssemblyReference.cache
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\BlogMvc.dll.config
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\BlogMvc.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\BlogMvc.pdb
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csc.exe
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csc.exe.config
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csc.rsp
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csi.exe
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csi.exe.config
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\csi.rsp
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.AppContext.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Console.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\vbc.exe
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\vbc.exe.config
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\vbc.rsp
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Antlr3.Runtime.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\EntityFramework.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Newtonsoft.Json.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Owin.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Helpers.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Mvc.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Optimization.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Razor.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\WebGrease.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Helpers.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Mvc.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Optimization.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.Razor.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Newtonsoft.Json.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Antlr3.Runtime.pdb
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\EntityFramework.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.initial.resources
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.AddAdmin.resources
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.Migrations.AddAdminData.resources
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.GenerateResource.cache
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CoreCompileInputs.cache
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csproj.CopyComplete
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.pdb
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\HtmlAgilityPack.dll
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\HtmlAgilityPack.pdb
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\bin\HtmlAgilityPack.xml
+C:\Users\yangyang\Desktop\BlogMvc\BlogMvc\obj\Debug\BlogMvc.csprojAssemblyReference.cache

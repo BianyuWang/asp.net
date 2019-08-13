@@ -1,0 +1,23 @@
+﻿@using System.Activities.Expressions
+@model IEnumerable<BlogMvc.Models.PostViewModel>
+
+
+@if (Model.Any())
+{
+    foreach (var post in Model)
+    {
+        <h3>@post.Title</h3>
+        <p>Posted by @post.UserFullName on @post.CreatedOn</p>
+        <p>@post.Content</p>
+        if (System.Web.HttpContext.Current.User.Identity.IsAuthenticated)
+        {
+            <a href="Comments/AddToPost/@post.Id">Add Comment</a>
+        }
+    }
+}
+else
+{
+    <br />
+    <div>No posts were found.</div>
+}
+
